@@ -283,7 +283,7 @@
   </layer>
   <layer id="8" name="hompage" width="30" height="30">
    <properties>
-    <property name="openWebsite" value="https://festivalfuerfreunde.de/"/>
+    <property name="openWebsite" value="http://festivalfuerfreunde.de/"/>
    </properties>
    <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
